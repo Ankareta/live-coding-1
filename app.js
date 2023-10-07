@@ -11,3 +11,6 @@ function bigWords(inputString, stringArray) {
   
     return result; 
   }
+
+  //Mi retroalimentacion fue que siempre demuestre lo que se y me note con confianza, que confie en mi misma
+  //este ejercicio se va a completar 
